@@ -1,6 +1,6 @@
 {
   "name": "keycloak-code",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "keycloak-js modification, only used to get code",
   "main": "dist/keycloak-code.js",
   "scripts": {
